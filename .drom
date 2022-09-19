@@ -5,7 +5,7 @@ version:0.6.1
 
 # hash of toml configuration files
 # used for generation of all files
-d1885421cfa489fd28f99b0c0ac6242d:.
+ab375a16eb5c3f1e202fea31acc38472:.
 # end context for .
 
 # begin context for .github/workflows/workflow.yml
@@ -70,7 +70,7 @@ e739f3026aa997af4026bc428f4c9ef6:docs/favicon.png
 
 # begin context for docs/index.html
 # file docs/index.html
-6d8640197c07e36247e88ced51a9fbee:docs/index.html
+5810646a70fdc0a6f659381534a87f33:docs/index.html
 # end context for docs/index.html
 
 # begin context for docs/sphinx/index.html
@@ -95,7 +95,7 @@ a13059105ff1a1ba4ea0263d39e1b4ad:drom.toml
 
 # begin context for dune-project
 # file dune-project
-fde9645e4ac65716d75fe53e374925eb:dune-project
+82371017ffc1d7d86aeddfcc7eb9c56f:dune-project
 # end context for dune-project
 
 # begin context for opam/invaders.opam
@@ -105,7 +105,7 @@ fde9645e4ac65716d75fe53e374925eb:dune-project
 
 # begin context for opam/invaders_lib.opam
 # file opam/invaders_lib.opam
-47f4f164caea64780474647aac58182e:opam/invaders_lib.opam
+d209ef8a850fb8e5f2dca54f91c154c9:opam/invaders_lib.opam
 # end context for opam/invaders_lib.opam
 
 # begin context for scripts/after.sh
@@ -175,7 +175,7 @@ fd62d5e85da0ea9019131801419b6188:src/invaders/package.toml
 
 # begin context for src/invaders_lib/dune
 # file src/invaders_lib/dune
-cbc7c7043357a2fc717a8f660c2bbd88:src/invaders_lib/dune
+ad5fa6916d32407b69f08a462f4815a2:src/invaders_lib/dune
 # end context for src/invaders_lib/dune
 
 # begin context for src/invaders_lib/index.mld

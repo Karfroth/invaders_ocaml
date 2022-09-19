@@ -28,6 +28,8 @@
  (description "This is the description\nof the invaders OCaml project\n")
  (depends
    (ocaml (>= 4.07.0))
+   (notty (and (>= 0.2.3) (< 1.0.0)))
+   (lwt ( >= 5.6.1 ))
    ppx_inline_test
    ppx_expect
    odoc

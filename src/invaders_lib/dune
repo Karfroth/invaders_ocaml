@@ -4,7 +4,7 @@
   (name invaders_lib)
   (public_name invaders_lib)
   (wrapped true)
-  (libraries  )
+  (libraries notty notty.unix lwt lwt.unix )
   
   
   )
