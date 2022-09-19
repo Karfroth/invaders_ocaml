@@ -1,0 +1,9 @@
+{1 Library invaders_lib}
+
+This is the description
+of the invaders OCaml project
+
+
+
+The entry point of this library is the module: {!Invaders_lib}.
+
