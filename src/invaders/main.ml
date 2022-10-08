@@ -11,4 +11,4 @@
 (**************************************************************************)
 
 
-let () = Invaders_lib.Main.main ()
+let () = Lwt_main.run @@ Invaders_lib.Main.main ()

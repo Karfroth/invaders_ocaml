@@ -5,7 +5,7 @@ version:0.6.1
 
 # hash of toml configuration files
 # used for generation of all files
-ab375a16eb5c3f1e202fea31acc38472:.
+0133f724f963d531041f0666d3eac333:.
 # end context for .
 
 # begin context for .github/workflows/workflow.yml
@@ -35,7 +35,7 @@ a8d1bcd6f62c6b813b77d3ff8959d8d2:.ocamlformat-ignore
 
 # begin context for CHANGES.md
 # file CHANGES.md
-479c0b6cbaa3a7b6747b577a979dceda:CHANGES.md
+5a47c568e24ef4f280d6c06a2e33c23d:CHANGES.md
 # end context for CHANGES.md
 
 # begin context for LICENSE.md
@@ -175,7 +175,7 @@ fd62d5e85da0ea9019131801419b6188:src/invaders/package.toml
 
 # begin context for src/invaders_lib/dune
 # file src/invaders_lib/dune
-ad5fa6916d32407b69f08a462f4815a2:src/invaders_lib/dune
+7cc9bb0b926e3a4af60e6214aa1a9041:src/invaders_lib/dune
 # end context for src/invaders_lib/dune
 
 # begin context for src/invaders_lib/index.mld
